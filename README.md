@@ -1,6 +1,6 @@
 # URL-Shortner
 URL-Shortner
-python install.py
+python3 install.py
 
 
-python urlshortener.py --url target url
+python3 urlshortener.py --url target url
